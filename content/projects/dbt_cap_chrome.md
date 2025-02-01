@@ -1,6 +1,6 @@
 ---
 title: dbt Chrome Extension
-type: post
+type: page
 ---
 
 ### Description

@@ -1,6 +1,6 @@
 ---
 title: Analytics Engineer handbook
-type: post
+type: page
 ---
 
 ### Description

@@ -1,6 +1,6 @@
 ---
 title: Raycast integration for dbtCloud
-type: post
+type: page
 ---
 
 ### Description
