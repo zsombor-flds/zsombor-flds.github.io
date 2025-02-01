@@ -1,0 +1,48 @@
+baseURL = "https://zsombor-flds.github.io/"
+languageCode = "en-us"
+title = "Zsombor FLDS"
+theme = "gokarna"
+#canonifyURLs = true
+#relativeURLs = true
+
+[params]
+  description = "I fiddle around data"
+  avatarURL = "/misc/avatar.png"
+  AvatarAltText = "avatar"
+  avatarSize = "size-xs"
+  showPostsOnHomePage = "recent"
+  numberPostsOnHomePage = 4
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    url = "/posts/"
+    pre = "<span data-feather='book'></span>"
+    name = "Posts"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    pre = "<span data-feather='code'></span>"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    pre = "<span data-feather='tag'></span>"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "github"
+    url = "https://github.com/zsombor-flds"
+    weight = 6
+    pre = "<span data-feather='github'></span>"
+
+  [[menu.main]]
+    identifier = "linkedin"
+    url = "https://www.linkedin.com/in/zsombor-flds/"
+    weight = 7
+    pre = "<span data-feather='linkedin'></span>"
