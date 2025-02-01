@@ -1,6 +1,6 @@
 ---
 title: Chat Controlled Air Freshener
-type: post
+type: page
 
 ---
 

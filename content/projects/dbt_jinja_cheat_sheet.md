@@ -1,6 +1,6 @@
 ---
 title: dbt Jinja Cheat sheet
-type: post
+type: page
 ---
 
 ### Description

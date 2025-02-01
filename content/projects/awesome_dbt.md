@@ -1,6 +1,6 @@
 ---
 title: Awesome dbt
-type: post
+type: page
 ---
 
 ### Description
