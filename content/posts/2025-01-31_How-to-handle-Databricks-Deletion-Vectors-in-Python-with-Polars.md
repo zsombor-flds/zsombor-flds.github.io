@@ -103,4 +103,4 @@ truncate history;
 
 I am not going to lie; this query is definitely on the podium in the contest of furthest from ANSI SQL statements -- but at least it's an option. One important pitfall is that you have to wait 24 hours for the retention period to expire (24 hours) and by **truncating the history you will lose the ability to use time travel** to access older snapshots of your data, as all transaction logs are truncated.
 
-My takeaway for now is that if you're planning to work with Delta tables outside of Databricks, to have fewer surprises, you need to keep an eye on feature compatibility to ensure smoother integrations, but hopefully, smoother integrations will come in the future.
+My takeaway for now is that if you're planning to work with Delta tables outside of Databricks, to have fewer surprises, you need to keep an eye on feature compatibility, but hopefully, smoother integrations will come in the future.
