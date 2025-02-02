@@ -5,4 +5,4 @@ type: page
 
 ### Description
 
-![](/misc/jinja_cheatsheet.png)
+![](/misc/jinja_cheat_sheet.png)
