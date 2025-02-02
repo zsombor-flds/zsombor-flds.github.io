@@ -12,6 +12,9 @@ theme = "gokarna"
   avatarSize = "size-xs"
   showPostsOnHomePage = "recent"
   numberPostsOnHomePage = 4
+  customHeadHTML = '''
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="037418e6-6be8-4e83-aa64-02144541398f"></script>
+    '''
 
 [menu]
   [[menu.main]]
@@ -40,12 +43,15 @@ theme = "gokarna"
     url = "https://github.com/zsombor-flds"
     weight = 6
     pre = "<span data-feather='github'></span>"
-
+    [menu.main.params]
+      newPage = true
   [[menu.main]]
     identifier = "linkedin"
     url = "https://www.linkedin.com/in/zsombor-flds/"
     weight = 7
     pre = "<span data-feather='linkedin'></span>"
+    [menu.main.params]
+      newPage = true
 
 [minify]
     minifyOutput = true
