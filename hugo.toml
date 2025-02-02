@@ -12,6 +12,9 @@ theme = "gokarna"
   avatarSize = "size-xs"
   showPostsOnHomePage = "recent"
   numberPostsOnHomePage = 4
+  customHeadHTML = '''
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="037418e6-6be8-4e83-aa64-02144541398f"></script>
+    '''
 
 [menu]
   [[menu.main]]
