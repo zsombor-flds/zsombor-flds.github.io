@@ -11,7 +11,7 @@ tags:
 ---
 ## Introduction
 
-Rube Goldberg, the famed cartoonist and inventor, is best known for his hilariously complex contraptions designed to perform simple tasks—like using a series of levers and pulleys. 
+[Rube Goldberg](https://en.wikipedia.org/wiki/Rube_Goldberg), the famed cartoonist and inventor, is best known for his hilariously complex contraptions designed to perform simple tasks—like using a series of levers and pulleys. 
 While his inventions were meant to entertain, data engineers sometimes unknowingly bring his spirit to life in their pipelines.
 
 ![](../../static/images/How_To_Stay_Awake_During_Business_Hours.png)
